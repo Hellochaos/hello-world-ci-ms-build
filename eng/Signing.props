@@ -1,0 +1,5 @@
+<Project>
+    <ItemGroup>
+		<ItemsToSign Include="$(VisualStudioSetupInsertionPath)Microsoft.Build.UnGAC.exe" />
+	</ItemGroup>
+</Project>
